@@ -46,8 +46,10 @@
 
 -----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianlessa&show_icons=true&locale=en&layout=compact" alt="christianlessa" /></p>
+<div align="center">
+  <h3> Estastísticas:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianlessa&show_icons=true&locale=en" alt="christianlessa" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianlessa&" alt="christianlessa" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianlessa&show_icons=true&locale=pt-br&theme=monokai" alt="christianlessa" /> </p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=christianlessa&theme=monokai&show_icons=true&locale=pt-br" alt="christianlessa" width="600" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianlessa&theme=monokai&locale=pt-br" width="600" /></p>
+</div>
