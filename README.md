@@ -4,10 +4,9 @@
   <p> <img src="https://komarev.com/ghpvc/?username=christianlessa&label=Profile%20views&color=4a10e2&style=flat"     alt="christianlessa" />
   <img src="https://img.shields.io/github/followers/christianlessa?style=social" alt="christianlessa" /> </p>
   
-  <p><h4 align="left">Sou Desenvolvedor de software full stack júnior, procurando oportunidade para exercer minhas sólidas experiências realizadas em mais de 35 projetos, comprovados ao longo do curso na Trybe. Aplicações em front-end e back-end com ambiente em testes.</p>
-  <p>Sou um jovem amante dos games online, e estou me sentindo realizado por essa nova área, na Tecnologia.</p>
-  E Jujuba, adoro comer Jujuba! (bala de goma) 
-  </h4>
+  <p align="left">Sou um jovem de 29 anos, bem humorado e apaixonado pela minha familía. Feliz em me encontrar nessa nova carreira de tecnologia em que eu iniciei os estudos na [Trybe](https://www.betrybe.com/). Desde novo sou apaixonado por tecnologia mas nunca tive ninguém próximo para me motivar, mas decidir "arregaçar as mangas" e finalmente "entrar de cabeça" sozinho e me aprofundar em conhecimentos nessa área como <b>Desenvolvedor de software</b>. Quero muito Trilhar profissionalmente, esta carreira que me identifico tanto desde adolescente. </p>
+  <p>Sou amante dos games online, e estou me sentindo realizado por essa nova área, na Tecnologia.</p>
+  Áh.. Adoro comer geléia de mocotó e Jujuba! (bala de goma)
 </div>
 
 -----
