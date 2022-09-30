@@ -4,7 +4,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=christianlessa&label=Profile%20views&color=4a10e2&style=flat"     alt="christianlessa" />
   <img src="https://img.shields.io/github/followers/christianlessa?style=social" alt="christianlessa" /> </p>
   
-  <p align="left">Sou um jovem de 29 anos, bem humorado e apaixonado pela minha familía. Feliz em me encontrar nessa nova carreira de tecnologia em que eu iniciei os estudos na [Trybe](https://www.betrybe.com/) em agosto de 2021. Desde novo sou apaixonado por tecnologia, mas nunca tive ninguém próximo para me motivar, então decidi "arregaçar as mangas" e finalmente "entrar de cabeça" sozinho e me aprofundar em conhecimentos nessa área como <b>Desenvolvedor de software</b>. Quero muito Trilhar profissionalmente, esta carreira que me identifico tanto desde adolescente. </p>
+  <p align="left">Sou um jovem de 29 anos, bem humorado e apaixonado pela minha familía. Feliz em me encontrar nessa nova carreira de tecnologia em que iniciei os estudos na [Trybe](https://www.betrybe.com/) em agosto de 2021. Desde novo sou apaixonado por tecnologia, mas nunca tive ninguém próximo para me motivar, então decidi "arregaçar as mangas" e finalmente "entrar de cabeça" sozinho me aprofundando em conhecimentos nessa área, como <b>Desenvolvedor de software</b>. Quero muito trilhar profissionalmente, esta carreira que me identifico tanto desde adolescente. </p>
   <p>Sou amante dos games online, e estou me sentindo realizado nessa área da Tecnologia.</p>
   Áh.. Adoro comer geléia de mocotó e Jujuba! (bala de goma)
 </div>
