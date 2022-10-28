@@ -46,7 +46,6 @@
 
   <h3> Estastísticas:</h3>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianlessa&show_icons=true&locale=pt-br&theme=monokai" alt="christianlessa" /> </p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=christianlessa&theme=monokai&show_icons=true&locale=pt-br" alt="christianlessa" width="500" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianlessa&theme=monokai&locale=pt-br" width="500" /></p>
 </div>
