@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/christianlessa?style=social" alt="christianlessa" /> </p>
 </div>
 
-  Sou um jovem de 30 anos, bem humorado e apaixonado pela minha família. Feliz em me encontrar nessa nova carreira de tecnologia, em que iniciei os estudos na [Trybe](https://www.betrybe.com/) em agosto de 2021 e conclui em Dezembro de 2022. Desde novo sou apaixonado por tecnologia, mas nunca tive ninguém próximo para me motivar em estudos para me profissionalizar na área, então decidi "arregaçar as mangas" e finalmente "entrar de cabeça" sozinho, me aprofundando em conhecimentos, como <b>Desenvolvedor de software</b>. Quero muito trilhar profissionalmente, esta carreira que me identifico tanto desde adolescente.
+  Sou um jovem de 32 anos, bem humorado e apaixonado pela minha família. Feliz em me encontrar nessa nova carreira de tecnologia, em que iniciei os estudos na [Trybe](https://www.betrybe.com/) em agosto de 2021 e conclui em Dezembro de 2022. Desde novo sou apaixonado por tecnologia, mas nunca tive ninguém próximo para me motivar em estudos para me profissionalizar na área, então decidi "arregaçar as mangas" e finalmente "entrar de cabeça" sozinho, me aprofundando em conhecimentos, como <b>Desenvolvedor de software</b>. Quero muito trilhar profissionalmente, esta carreira que me identifico tanto desde adolescente.
   <p>Sou amante dos games online, e estou me sentindo realizado nessa área da Tecnologia.</p>
 
 -----
